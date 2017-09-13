@@ -1,0 +1,13 @@
+table, th, td {
+font-size: 20px;
+border: 1px solid black;
+}
+
+th {
+    padding: 10px;
+}
+
+td {
+    padding-left: 10px;
+    padding-right: 10px;
+}
